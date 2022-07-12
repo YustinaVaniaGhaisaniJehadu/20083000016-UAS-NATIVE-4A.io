@@ -143,17 +143,6 @@ section{
    background-color: var(--yellow);
 }
 
-.header .follow a{
-   font-size: 3rem;
-   margin:0 1rem;
-   cursor: pointer;
-   transition: .6s linear !important;
-}
-
-.header .follow a:hover{
-   transform: rotate(360deg);
-}
-
 #menu-btn{
    position: absolute;
    top:0; right:-5.5rem;
